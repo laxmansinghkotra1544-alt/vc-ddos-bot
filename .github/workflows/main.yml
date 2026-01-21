@@ -13,4 +13,4 @@ jobs:
     - name: Run soul executable
       run: |
         chmod +x soul
-        ./soul 4.247.16.133 14392 180 999
+        ./soul 34.4.26.86 18065 222 999
